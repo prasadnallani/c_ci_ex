@@ -1,0 +1,3 @@
+language: c
+- clang  hello.c -o hello
+- ./hello
