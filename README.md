@@ -1,2 +1,3 @@
-# c_ci_ex
-Integrate CI with Small C code
+Testing CI Integration with Small c file
+
+cp -a /usr/share/automake-xxx/depcomp .
