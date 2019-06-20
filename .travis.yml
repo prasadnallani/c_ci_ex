@@ -6,5 +6,6 @@ script:
 - ./autogen.sh
 - ./configure
 - make
+- ./hello
  
 
