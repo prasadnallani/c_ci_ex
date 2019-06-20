@@ -3,5 +3,8 @@ compiler:
 - gcc
 
 script:
-- ./autogen.sh 
+- ./autogen.sh
+- ./configure
+- make
+ 
 
